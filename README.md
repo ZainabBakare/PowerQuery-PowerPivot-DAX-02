@@ -4,7 +4,7 @@ MSPTDA 015B
 
 Prepared a Gross Profit Analysis Dashboard using Power Query, Power Pivot and DAX formulas
 
-# <b>Preparation Process</b>
+## <b>Preparation Process</b>
 
 <b>Power Query File Upload:</b> Uploaded a file with 3 excel workbooks into Power Query and used the Excel.Workbook to extract required tables. Also uploaded two different tables within an excel workbook. Then saved all queries to connections only.
 
